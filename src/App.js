@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Basket from './components/Basket';
 import Header from './components/Header';
