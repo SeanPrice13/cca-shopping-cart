@@ -1,2 +1,4 @@
 # cca-shopping-cart
-Shopping Cart Built w/ ReactJS
+A Shopping Cart Built w/ ReactJS
+
+[Try it out!](https://cca-shopping-cart.herokuapp.com/)
